@@ -1,0 +1,128 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "fargito",
+      "name": "François Farge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29537204?v=4",
+      "profile": "https://github.com/fargito",
+      "contributions": [
+        "infra",
+        "code",
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "adriencaccia",
+      "name": "Adrien Cacciaguerra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19605940?v=4",
+      "profile": "https://github.com/adriencaccia",
+      "contributions": [
+        "code",
+        "ideas",
+        "infra"
+      ]
+    },
+    {
+      "login": "LouisPinsard",
+      "name": "Louis Pinsard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30240360?v=4",
+      "profile": "https://github.com/LouisPinsard",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "guillaumeduboc",
+      "name": "guillaumeduboc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33599414?v=4",
+      "profile": "https://github.com/guillaumeduboc",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MaximeVivier",
+      "name": "Maxime Vivier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55386175?v=4",
+      "profile": "https://github.com/MaximeVivier",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "GuillaumeLagrange",
+      "name": "Guillaume Lagrange",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19265358?v=4",
+      "profile": "https://github.com/GuillaumeLagrange",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "pmilliotte",
+      "name": "Pierre Milliotte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39985796?v=4",
+      "profile": "https://github.com/pmilliotte",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ThomasAribart",
+      "name": "Thomas Aribart",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38014240?v=4",
+      "profile": "https://github.com/ThomasAribart",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "charlesgery",
+      "name": "Charles Géry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46850903?v=4",
+      "profile": "https://github.com/charlesgery",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "StanHannebelle",
+      "name": "Stan Hannebelle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45121661?v=4",
+      "profile": "https://github.com/StanHannebelle",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "qhello",
+      "name": "Quentin Hello",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9997584?v=4",
+      "profile": "https://github.com/qhello",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "Paulmolin",
+      "name": "Paul Molin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5166068?v=4",
+      "profile": "https://github.com/Paulmolin",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "template",
+  "projectOwner": "swarmion",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
